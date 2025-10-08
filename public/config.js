@@ -25,7 +25,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_TWITTER_URL": "https://x.com/BlockMort",
   "VITE_SEO_SITE_NAME": "Blockmort Perps Dex",
   "VITE_SEO_SITE_DESCRIPTION": "Blockmort is an omnichain Perps DEX powered by Orderly Network — trade 130+ assets with up to 100x leverage across 17+ chains using multi-collateral. Fast, secure, and built for pro traders.",
-  "VITE_SEO_SITE_URL": "https://dex.orderly.network/blockmort-6187/",
+  "VITE_SEO_SITE_URL": "https://blockmort.com",
   "VITE_SEO_SITE_LANGUAGE": "en",
   "VITE_SEO_SITE_LOCALE": "en_US",
   "VITE_SEO_TWITTER_HANDLE": "@BlockMort",
