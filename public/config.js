@@ -12,7 +12,7 @@ window.__RUNTIME_CONFIG__ = {
   "VITE_ENABLE_ABSTRACT_WALLET": "false",
   "VITE_DISABLE_EVM_WALLETS": "false",
   "VITE_DISABLE_SOLANA_WALLETS": "false",
-  "VITE_WALLETCONNECT_PROJECT_ID": "0d95294bb59011f8e3059c09016e8c79",
+  "VITE_WALLETCONNECT_PROJECT_ID": "068b961864301cdcce233fd74904c43b",
   "VITE_APP_NAME": "Blockmort",
   "VITE_APP_DESCRIPTION": "Blockmort is an omnichain Perps DEX powered by Orderly Network — trade 130+ assets with up to 100x leverage across 17+ chains using multi-collateral. Fast, secure, and built for pro traders.",
   "VITE_HAS_PRIMARY_LOGO": "true",
